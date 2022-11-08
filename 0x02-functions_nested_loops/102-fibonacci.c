@@ -12,7 +12,7 @@ int main(void)
 
 	while (c < 50)
 	{
-		printf("%id", b);
+		printf("%ld", b);
 
 		z = a;
 		a = b;
