@@ -15,7 +15,7 @@ fr1 = 0, bk1 = 1, fr2 = 0, bk2 = 2;
 hold1, hold2, hold3;
 	int count;
 
-	printf("%1u, %1u, ", bk1, bk2);
+	printf("%11u, %11u, ", bk1, bk2);
 	for (count = 2; count < 98; count++)
 	{
 		if
